@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CalculatorTask</string>
+    <string name="enter_equation">Enter an Equation</string>
+    <string name="equation_example">e.g. 1 + 2 + 3 + ..</string>
+    <string name="enter_duration">Enter Duration</string>
+    <string name="seconds">Seconds</string>
+    <string name="calculate">Calculate</string>
+    <string name="hint_default_0">Default 0</string>
+    <string name="enqueued_equations">Enqueued Equations</string>
+    <string name="succeeded_equations">Succeeded Equations</string>
+    <string name="ok">OK</string>
+    <string name="use_one_operator">Please, Use One Operator</string>
+    <string name="equation_not_valid">Equation Not Valid</string>
+    <string name="enter_an_equation">Please, Enter an Equation</string>
+    <string name="text_Lorem_ipsum">Lorem ipsum</string>
+    <string name="Lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="location">Location</string>
+    <string name="label_longitude">Longitude: </string>
+    <string name="label_latitude">Latitude: </string>
+    <string name="label_country">Country: </string>
+    <string name="label_city">City: </string>
+    <string name="enable_location_service">Please, Enable Location Service</string>
+    <string name="location_info">Location Info</string>
+</resources>
